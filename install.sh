@@ -14,7 +14,7 @@ systemctl start network
 chkconfig network on
 }
 
-function install_packstack()
+function packstack()
 {
 
 #Install openstack-train
