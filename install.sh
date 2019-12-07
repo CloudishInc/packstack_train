@@ -29,3 +29,6 @@ yum install openstack-packstack -y
 #start packstack service
 packstack --allinone
 }
+
+start_stop
+packstack
